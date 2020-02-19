@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  *19.02.2019 
+ *I fucked up in Java today
  */
 package githubtrial;
 
