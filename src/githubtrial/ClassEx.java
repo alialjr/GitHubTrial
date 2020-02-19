@@ -4,6 +4,8 @@
  * and open the template in the editor.
  *19.02.2019 
  *I fucked up in Java today
+*Create a new branch
+*It will be ok
  */
 package githubtrial;
 
